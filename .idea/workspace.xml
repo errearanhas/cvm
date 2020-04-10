@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a691bab8-868d-4c60-afbc-09e265fadeb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHSnsiGFABQPydgbdNXYRgGWQR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a691bab8-868d-4c60-afbc-09e265fadeb5" name="Default Changelist" comment="" />
+      <created>1586391195556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586391195556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="34" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586396677089">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="34" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1586396677089" />
+    <state width="377" height="406" key="XDebugger.FullValuePopup" timestamp="1586467958697">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="377" height="443" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1586463158160" />
+    <state width="377" height="406" key="XDebugger.FullValuePopup/0.23.1440.826@0.23.1440.826" timestamp="1586467958697" />
+    <state x="95" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1586538506002">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="95" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1586538506002" />
+    <state x="250" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1586406632029">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="250" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1586406632029" />
+  </component>
+</project>
